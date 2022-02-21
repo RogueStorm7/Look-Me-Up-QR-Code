@@ -28,6 +28,7 @@ SO THAT I can network but also gain potential clientele and share Social Media a
 
 
 ## Sneak-Peek
+
 <details>
   <summary>Click to Reveal</summary>
  

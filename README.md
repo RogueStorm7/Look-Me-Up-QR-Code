@@ -39,7 +39,7 @@ SO THAT I can network but also gain potential clientele and share Social Media a
 ## Screenshot 
 ![Screenshot (34)](https://user-images.githubusercontent.com/89751266/154766168-96b01aac-517f-4937-8855-4193d5adbb93.png)
 
-![Screenshot](./assets/images/screenshot.png)
+![Screenshot](https://github.com/RogueStorm7/Look-Me-Up-QR-Code/blob/main/look-meup.herokuapp.com_user_profile.png)
 
 ## Demo
 https://drive.google.com/file/d/1JAbSn4qHI_mlqyEKC6uV6MBYGmU0eAEH/view

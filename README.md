@@ -30,6 +30,7 @@ SO THAT I can network but also gain potential clientele and share Social Media a
 ## Sneak-Peek
 <details>
   <summary>Click to Reveal</summary>
+ 
 [Look me up](https://look-meup.herokuapp.com/)
 
 [Presentation](https://docs.google.com/presentation/d/1wnNs3TorkcW_KLNyfvWZWyUmkLxMF4LJoKHv___ewFY/edit#slide=id.g29f43f0a72_0_10)
